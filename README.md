@@ -1,3 +1,3 @@
-Выбери "📖 wiki" в верхнем меню
+Выбери "📖 Wiki" в верхнем меню
 
-Select the "📖 wiki" in top menu bar
+Select the "📖 Wiki" in top menu bar
