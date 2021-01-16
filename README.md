@@ -1,3 +1,4 @@
-Выбери "📖 Wiki" в верхнем меню
+Выбери "![alt](images/book.svg) Wiki" в верхнем меню
 
-Select the "📖 Wiki" in top menu bar
+Select the "![alt](images/book.svg) Wiki" in top menu bar
+
