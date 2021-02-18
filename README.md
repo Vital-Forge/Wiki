@@ -1,3 +1,3 @@
-Выбери **[![alt](images/book.png)](https://github.com/Vital-Forge/Wiki/wiki) Wiki** в верхнем меню
+Выбери **[![alt](images/book.png) Wiki](https://github.com/Vital-Forge/Wiki/wiki)** в верхнем меню
 
-Select the **[![alt](images/book.png)](https://github.com/Vital-Forge/Wiki/wiki) Wiki** in top menu bar
+Select the **[![alt](images/book.png) Wiki](https://github.com/Vital-Forge/Wiki/wiki) Wiki** in top menu bar
